@@ -1,0 +1,115 @@
+{
+
+  "intro":{
+     "hello": "Hello world!",
+     "iam" : "I am T(Alex)",
+     "description" : "| SOFTWARE ENGINEER | FROM A [LEGACY] SYSTEM FAR FAR AWAY ... |"
+   },
+
+   "header" : {
+
+   },
+
+   "about" : {
+
+     "profileimage" : "https://avatars0.githubusercontent.com/u/8438422?s=400&u=f20d558c2d5da72babbfba5b532779fc7668d2c5&v=4",
+     "fullname" : "Alexandru Tofan",
+     "birthdate" : "08 August 1989",
+     "job" : "ING job link",
+     "email" : "XXXX@gmail.com",
+     "lead": "This is where the lead goes",
+     "profile": "This is where the profile goes",
+     "skillsdesc": "This is where the skills desc goes",
+     "skills": [
+       { "name":"PSL" },
+       { "name":"Java" },
+       { "name":"SQL" },
+       { "name":"HTML5" },
+       { "name":"JavaScript" },
+       { "name":"jQuery" },
+       { "name":"AngularJS" }
+     ]
+   },
+
+   "resume": {
+
+      "intro": "Here goes resume intro",
+
+      "work": [
+        { "id": 1,
+          "title": "Software Developer Engineer",
+          "date":  "August 2017 - ongoing",
+          "location": "ING Software Development Center - Bucharest",
+          "responsabilities": " 1 2 3"
+        },
+
+        { "id": 2,
+          "title": "Jr. Software Developer Engineer",
+          "date": " January 2015 - July 2017",
+          "location": "ING Software Development Center - Bucharest",
+          "responsabilities": "4 5 6"
+        },
+
+        { "id": 3,
+          "title": "Intern - Data Management",
+          "date": " May 2014 - September 2014",
+          "location": "ING Netherlands - Amsterdam",
+          "responsabilities": "7 8 9"
+        }
+      ],
+
+      "education":[
+
+        { "id": 1,
+          "title": "XX Intern - Data Management",
+          "date": " May 2014 - September 2014",
+          "location": "ING Netherlands - Amsterdam",
+          "courses": "1 2 3"
+        },
+
+        { "id": 2,
+          "title": "XX Intern - Data Management",
+          "date": " May 2014 - September 2014",
+          "location": "ING Netherlands - Amsterdam",
+          "courses": "4 5 6"
+        },
+
+        { "id": 3,
+          "title": "XX Intern - Data Management",
+          "date": " May 2014 - September 2014",
+          "location": "ING Netherlands - Amsterdam",
+          "courses": "7 8 9"
+        }
+
+      ]
+    },
+
+  "portfolio" : {
+
+      "intro" : "This is where the intro goes",
+      "projects" :[
+
+          { "id": 1,
+            "image": "https://vignette.wikia.nocookie.net/batman/images/d/d1/The_Dark_Knight.jpg/revision/latest/scale-to-width-down/270?cb=20090423011606",
+            "link": "http://batman.wikia.com/wiki/Batman",
+            "title": "BATMAN",
+            "type": "Vigilante"
+          }
+        ]
+  },
+
+  "testimonials":{
+
+    "testimonialslist":[
+      {
+        "id": 1,
+        "text": "I have the privilege of working with Alex within ING Software Development Center since January 2015. He is one of the most dedicated professionals through his work at ING Software Development Center Italy Team. Alex likes to perform his job near perfection, proposing always good solutions for implementation and also improving the existing code.  He has a great passion for technology and a strong will to learn   . . . ",
+        "link" : "https://www.linkedin.com/in/alexandru-tofan-23606a76/" ,
+        "user":"Elena Cotan"
+      }
+    ]
+
+  },
+
+  "contact" : "This is contact greeting"
+}
